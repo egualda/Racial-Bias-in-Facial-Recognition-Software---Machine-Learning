@@ -1,0 +1,2 @@
+# Racial-Bias-in-Facial-Recognition-Software---Machine-Learning
+Performed analysis of racial bias in facial recognition software using diverse datasets (FairFace) and advanced deep learning models (ResNet-50, Inception ResNet V1) to evaluate and improve model performance, achieving up to 52.5% test accuracy on 3000 images while highlighting disparities in model accuracy across different racial groups.
